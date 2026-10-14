@@ -1,0 +1,5 @@
+{
+  "serviceName": "auth",
+  "expectedFileName": "auth.md",
+  "expectedHeader": "Authentication & Token Management > Token Expiration and Clock Skew > Resolution"
+}

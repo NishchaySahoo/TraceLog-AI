@@ -1,0 +1,5 @@
+{
+  "serviceName": "k8s",
+  "expectedFileName": "kubernetes.md",
+  "expectedHeader": "Kubernetes Workload Failures > CrashLoopBackOff Errors > Debugging Workflow"
+}

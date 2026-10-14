@@ -1,0 +1,5 @@
+{
+  "serviceName": "redis",
+  "expectedFileName": "redis.md",
+  "expectedHeader": "Redis Troubleshooting > High Memory and OOM Errors > Mitigation Steps"
+}

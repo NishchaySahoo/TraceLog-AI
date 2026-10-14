@@ -1,0 +1,5 @@
+{
+  "serviceName": "payments",
+  "expectedFileName": "payments.md",
+  "expectedHeader": "Payment Processing & Gateway Troubleshooting > 504 Gateway Timeouts > Remediation Checklist"
+}

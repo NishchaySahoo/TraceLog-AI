@@ -1,0 +1,5 @@
+{
+  "serviceName": "k8s",
+  "expectedFileName": "kubernetes.md",
+  "expectedHeader": "Kubernetes Workload Failures > Pod OOMKilled (Exit Code 137) > Investigation & Fix"
+}

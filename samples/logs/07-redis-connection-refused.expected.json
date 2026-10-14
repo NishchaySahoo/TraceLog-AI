@@ -1,0 +1,5 @@
+{
+  "serviceName": "redis",
+  "expectedFileName": "redis.md",
+  "expectedHeader": "Redis Troubleshooting > Connection Failures (ECONNREFUSED) > Recovery Actions"
+}

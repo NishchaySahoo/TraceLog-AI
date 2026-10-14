@@ -1,0 +1,15 @@
+{
+  "name": "tracelog-ai-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend"
+  ],
+  "scripts": {
+    "test:backend": "npm --workspace=backend run test",
+    "dev:backend": "npm --workspace=backend run dev",
+    "build:backend": "npm --workspace=backend run build",
+    "seed": "npm --workspace=backend run seed",
+    "eval": "npm --workspace=backend run eval"
+  }
+}
